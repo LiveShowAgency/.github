@@ -15,10 +15,12 @@ We provide preconfigured Minecraft servers with integrated Java. These servers a
 ### Innovative Interaction Software (Not out yet)
 
 - **Server Interaction**: Our LiveShow Software goes beyond traditional server management. It allows you to interact with your game servers in unique ways. For example, you can create actions that trigger in-game events when certain conditions are met outside the game. Want something special to happen in your server when you receive a like on TikTok or when you have a new Follower on Twitch? With LiveShow, it's possible! We empower you to bridge the gap between your online presence and your gaming world.
-- **Sound Effects**: Play custom sounds (when certain event happen) to enhance your stream and engage your audience in real-time.
-- **Text-to-Speech**: Convert messages from viewers into speech, allowing for dynamic and interactive communication.
-- **Keystrokes**: You can simulate Input Key (when certain event happen)
-- **Minecraft Integration**: Spawn mobs, Change Weather, or just a custom command, you can do what you want.
+- **Immersive Sound Effects**: Elevate your live stream experience by playing customized sound effects in real-time when certain events occur. This adds a new layer of engagement for your audience.
+- **Text-to-Speech Integration**: Transform viewer messages into spoken words, facilitating dynamic and interactive communication during your live sessions.
+- **Simulated Keystrokes**: Trigger input keystrokes when specific events take place, enhancing your ability to interact with the game and your audience.
+- **Minecraft Integration**: Take control in Minecraft with the ability to spawn mobs, change weather, or execute custom commands – the possibilities are endless.
+- **GTA 5**: Enjoy advanced functionality in GTA 5, including the ability to manage character actions, manipulate wanted levels, spawn vehicles, and much more.
+- **Webhook Activation**: Easily trigger custom webhooks to expand the possibilities of your server interactions.
 
 ### Promising Future
 
