@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of LiveShow Agency!
 
 ## About LiveShow Agency
 
-LiveShow Agency is a development organization focused on creating and providing tools and resources for Minecraft game servers. Our goal is to simplify server management and configuration while offering innovative addons and features. We are also the developers of the LiveShow software, which will soon be available on Steam. Please note that LiveShow Software is not related to the "liveshow.com" website (a +18 website).
+LiveShow Agency is a development organization focused on creating and providing tools and resources for Minecraft game servers. Our goal is to simplify server management and configuration while offering innovative addons and features. We are also the developers of the LiveShow software, which will soon be available on Steam.
 
 ## What We Offer
 
@@ -12,7 +12,7 @@ LiveShow Agency is a development organization focused on creating and providing 
 
 We provide preconfigured Minecraft servers with integrated Java. These servers are ready to use, allowing you to start your adventure quickly without the complexity of server setup.
 
-### Innovative Interaction Software (Not out yet)
+### Innovative Interaction Software (Download here : [https://live-show.app/#/download](https://live-show.app/#/download))
 
 - **Server Interaction**: Our LiveShow Software goes beyond traditional server management. It allows you to interact with your game servers in unique ways. For example, you can create actions that trigger in-game events when certain conditions are met outside the game. Want something special to happen in your server when you receive a like on TikTok or when you have a new Follower on Twitch? With LiveShow, it's possible! We empower you to bridge the gap between your online presence and your gaming world.
 - **Immersive Sound Effects**: Elevate your live stream experience by playing customized sound effects in real-time when certain events occur. This adds a new layer of engagement for your audience.
