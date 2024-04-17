@@ -1,10 +1,10 @@
-# LiveShow Agency GitHub
+# LiveShow GitHub
 
-Welcome to the official GitHub repository of LiveShow Agency!
+Welcome to the official GitHub repository of LiveShow !
 
-## About LiveShow Agency
+## About LiveShow
 
-LiveShow Agency is a development organization focused on creating and providing tools and resources for Minecraft game servers. Our goal is to simplify server management and configuration while offering innovative addons and features. We are also the developers of the LiveShow software, which will soon be available on Steam.
+LiveShow is a development organization focused on creating and providing tools and resources for Minecraft game servers. Our goal is to simplify server management and configuration while offering innovative addons and features. We are also the developers of the LiveShow software, which will soon be available on Steam.
 
 ## What We Offer
 
