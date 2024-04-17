@@ -32,8 +32,8 @@ All the resources you find here are designed to work seamlessly with our LiveSho
 
 ## Contact
 
-Feel free to reach out if you have any questions, comments, or suggestions. You can connect with us through our email : liveshow.interaction@gmail.com
+Feel free to reach out if you have any questions, comments, or suggestions. You can connect with us through our email : contact@live-show.app
 
-We are excited to help you enhance your gaming/streaming experience and simplify your server management. Join the LiveShow Agency community today!
+We are excited to help you enhance your gaming/streaming experience and simplify your server management. Join the LiveShow community today!
 
 **Stay updated with our latest updates and announcements by following our GitHub. Thank you for your support!**
